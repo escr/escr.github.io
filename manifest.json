@@ -1,5 +1,6 @@
 {
-    "name": "",
+    "name": "excelian-challange",
+    "short_name": "code-challange",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
